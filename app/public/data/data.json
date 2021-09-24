@@ -1,0 +1,162 @@
+{
+  "boards": [
+    {
+      "name": "my boards",
+      "user": 0,
+      "id": 54962565378,
+      "starred": true,
+      "created": "2021-09-23"
+    }
+  ],
+  "tasks": [
+    {
+      "boardId": 54962565378,
+      "description": "",
+      "completed": true,
+      "listId": 10820438952,
+      "title": "need to pack bag for school",
+      "id": 79439365298,
+      "created": "2021-09-23",
+      "deadline": "2021-09-26",
+      "order": 1
+    },
+    {
+      "boardId": 54962565378,
+      "description": "",
+      "completed": false,
+      "listId": 10820438952,
+      "title": "buy groceries",
+      "id": 56802945127,
+      "created": "2021-09-23",
+      "deadline": "2021-09-26",
+      "image": "/public/uploaded/56802945127_2021-03-25 (6).png",
+      "order": 0
+    },
+    {
+      "boardId": 54962565378,
+      "description": "",
+      "completed": false,
+      "listId": 88980893052,
+      "title": "bread",
+      "id": 40103652441,
+      "created": "2021-09-23",
+      "deadline": "2021-09-26",
+      "order": 0
+    },
+    {
+      "boardId": 54962565378,
+      "description": "",
+      "completed": false,
+      "listId": 88980893052,
+      "title": "milk",
+      "id": 9927121762,
+      "created": "2021-09-23",
+      "deadline": "2021-09-26",
+      "order": 1
+    },
+    {
+      "boardId": 54962565378,
+      "description": "",
+      "completed": false,
+      "listId": 88980893052,
+      "title": "water",
+      "id": 778285026,
+      "created": "2021-09-23",
+      "deadline": "2021-09-26",
+      "order": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "orensrauch@gmail.com",
+      "password": "$2a$10$AgCq.IpQLMSc4s1i7WUJ6eh7R1I./9SEUlhh4qF6/PKUHj.CaXOOe",
+      "id": 1
+    }
+  ],
+  "lists": [
+    {
+      "boardId": 54962565378,
+      "title": "Shop list",
+      "id": 88980893052,
+      "created": "2021-09-23"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "TODO",
+      "id": 10820438952,
+      "created": "2021-09-23"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 35711320212,
+      "created": "2021-09-24"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 54342744270,
+      "created": "2021-09-24"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 65720443081,
+      "created": "2021-09-24"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 75452974656,
+      "created": "2021-09-24"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 80619730740,
+      "created": "2021-09-24"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 3749558946,
+      "created": "2021-09-24"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 23714854796,
+      "created": "2021-09-24"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 39451381010,
+      "created": "2021-09-24"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 59258824177,
+      "created": "2021-09-24"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 21098972448,
+      "created": "2021-09-24"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 59261093274,
+      "created": "2021-09-24"
+    },
+    {
+      "boardId": 54962565378,
+      "title": "New List",
+      "id": 45054664287,
+      "created": "2021-09-24"
+    }
+  ]
+}
